@@ -3,9 +3,9 @@ import React from "react";
 export default function ({ course }) {
   return (
     <div>
-      <div class="card w-96 glass">
+      <div class="card  w-80  glass">
         <figure>
-          <img src={course.picture} alt="" className=" h-60   w-80 p-3" />
+          <img src={course.picture} alt="" className=" h-60  p-3" />
         </figure>
         <div class="card-body">
           <h2 class="card-title">{course.title}</h2>

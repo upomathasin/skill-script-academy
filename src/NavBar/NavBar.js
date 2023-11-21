@@ -1,6 +1,6 @@
 import React from "react";
 import { Link } from "react-router-dom";
-
+import { FaLaptopCode } from "react-icons/fa6";
 export default function NavBar() {
   return (
     <div>
@@ -43,7 +43,7 @@ export default function NavBar() {
             </ul>
           </div>
           <Link className="btn btn-ghost text-xl  font-bold uppercase">
-            Skill Script Academy
+            <FaLaptopCode /> Skill Script Academy
           </Link>
         </div>
         <div className="navbar-center hidden lg:flex">

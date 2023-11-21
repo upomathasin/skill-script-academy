@@ -17,7 +17,7 @@ export default function Services() {
           Our Services
         </h1>
       </div>
-      <div className="grid justify-center items-center sm:grid-cols-1  md:grid-cols-4  gap-8">
+      <div className="grid justify-center items-center sm:grid-cols-1  md:grid-cols-4  gap-5">
         {courses.map((course) => {
           return <Service course={course}></Service>;
         })}

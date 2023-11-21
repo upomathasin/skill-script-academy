@@ -21,7 +21,7 @@ export default function Popular() {
           ---Here is our most demanding courses---
         </h1>
       </div>
-      <div className="grid justify-center items-center sm:grid-cols-1 md:grid-cols-4  gap-8 ">
+      <div className="grid justify-center items-center sm:grid-cols-1  md:grid-cols-4  gap-5 ">
         {popular.map((course) => {
           return <Service course={course}></Service>;
         })}
