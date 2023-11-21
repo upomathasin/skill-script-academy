@@ -5,6 +5,7 @@ import AboutUs from "./AboutUs/AboutUs";
 import Services from "./Services/Services";
 import Main from "./Layout/Main";
 import NotFound from "./NotFound/NotFound";
+import Team from "./Team/Team";
 
 function App() {
   const router = createBrowserRouter([
@@ -16,6 +17,7 @@ function App() {
         { path: "/home", element: <Home></Home> },
         { path: "/about", element: <AboutUs></AboutUs> },
         { path: "/services", element: <Services></Services> },
+        { path: "/team", element: <Team></Team> },
         { path: "*", element: <NotFound></NotFound> },
       ],
     },

@@ -1,3 +1,4 @@
+//Home Page
 import React from "react";
 import Header from "../Header/Header";
 import Popular from "../Popular/Popular";

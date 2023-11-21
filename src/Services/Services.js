@@ -10,14 +10,14 @@ export default function Services() {
       .then((data) => setCourses(data));
   }, []);
   return (
-    <div className=" p-10 ">
+    <div className=" p-12 ">
       <div className="text-center  ">
         <h1 className="uppercase my-8 text-4xl text-primary    ">
           {" "}
           Our Services
         </h1>
       </div>
-      <div className="grid grid-cols-4  gap-8">
+      <div className="grid justify-center items-center sm:grid-cols-1  md:grid-cols-4  gap-8">
         {courses.map((course) => {
           return <Service course={course}></Service>;
         })}

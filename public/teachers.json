@@ -1,0 +1,72 @@
+[
+  
+    {
+      "id": "1",
+      "picture": "teacher2.jpg",
+      "age": 26,
+      "name": "Barrett Mcfarland",
+      "gender": " female",
+   
+      "email": "avabennett@surelogic.com"
+    },
+    {
+      "id": "2",
+   
+   
+      "picture": "teacher3.jpg",
+      "age": 26,
+      "position": "Professor",
+      "name": "Maria Sumaia",
+      "gender": " female",
+ 
+      "email": "avabennett@surelogic.com"
+    },
+    {
+      "id": "3",
+   
+    
+      "picture": "teacher4.jpg",
+      "age": 26,
+      "position": "Professor",
+      "name": "Sulaiman Hussain",
+      "gender": " male",
+  
+      "email": "avabennett@surelogic.com"
+    },
+    {
+      "id": "4",
+   
+      "salary": 200,
+      "picture": "teacher5.jpg",
+      "age": 26,
+      "position": "Professor",
+      "name": "Barrett Mcfarland",
+      "gender": " male",
+   
+      "email": "avabennett@surelogic.com"
+    },
+    {
+      "id": "5",
+  
+  
+      "picture": "teacher6.jpg",
+      "age": 30,
+      "position": "Professor",
+      "name": "Barrett Mcfarland",
+      "gender": " female",
+ 
+      "email": "avabennett@surelogic.com"
+    },
+    {
+      "id": "6",
+  
+    
+      "picture": "teacher7.jpg",
+      "age": 28,
+      "position": "Professor",
+      "name": "Barrett Mcfarland",
+      "gender": " male",
+   
+      "email": "avabennett@surelogic.com"
+    }
+  ]

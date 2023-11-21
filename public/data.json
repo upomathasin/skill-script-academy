@@ -18,7 +18,7 @@
     {
       "_id": "655c4d335655612f11eb312c",
       "price": "$429.69",
-      "picture": "http://placehold.it/32x32",
+      "picture": "Web.png",
       "title": "Complete Web Development ",
       "des": "",
       "popular": true
@@ -26,7 +26,7 @@
     {
       "_id": "655c4d339f09f238f5ef2a1d",
       "price": "$62.34",
-      "picture": "http://placehold.it/32x32",
+      "picture": "php.png",
       "title": "Learn PHP",
       "des": "",
       "popular": false
@@ -34,7 +34,7 @@
     {
       "_id": "655c4d3369a3d18838d84031",
       "price": "$188.06",
-      "picture": "http://placehold.it/32x32",
+      "picture": "mern.png",
       "title": "Complete MERN Stack",
       "des": "",
       "popular": false
@@ -42,15 +42,15 @@
     {
       "_id": "655c4d335655612f11eb312c",
       "price": "$429.69",
-      "picture": "http://placehold.it/32x32",
-      "title": "PHP,Larval ",
+      "picture": "laravel.png",
+      "title": "PHP,Laravel ",
       "des": "",
       "popular": false
     },
     {
       "_id": "655c4d339f09f238f5ef2a1d",
       "price": "$62.34",
-      "picture": "http://placehold.it/32x32",
+      "picture": "css.png",
       "title": "HTML,CSS for kid",
       "des": "",
       "popular": false

@@ -30,12 +30,15 @@ export default function NavBar() {
               <li>
                 <Link to="/home">Home</Link>
               </li>
-              <li>
-                <Link to="/services">Services</Link>
-              </li>
 
               <li>
-                <Link to="/about">About</Link>
+                <Link to="/services">All Services</Link>
+              </li>
+              <li>
+                <Link to="/team">Our Team</Link>
+              </li>
+              <li>
+                <Link to="/about">About Us</Link>
               </li>
             </ul>
           </div>
@@ -48,12 +51,15 @@ export default function NavBar() {
             <li>
               <Link to="/home">Home</Link>
             </li>
-            <li>
-              <Link to="/services">Services</Link>
-            </li>
 
             <li>
-              <Link to="/about">About</Link>
+              <Link to="/services"> All Services</Link>
+            </li>
+            <li>
+              <Link to="/team">Our Team</Link>
+            </li>
+            <li>
+              <Link to="/about">About Us</Link>
             </li>
           </ul>
         </div>
